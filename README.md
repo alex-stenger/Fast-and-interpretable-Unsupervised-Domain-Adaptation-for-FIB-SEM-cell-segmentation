@@ -5,6 +5,8 @@ This is the public repository of the ISBI 2023 Conference Paper named *Fast and 
 You'll find a demo on how to use our code in the file ```notebook.ipynb```. <br />
 More code can be found on the ```source``` folder.
 
+Data can't unfortunately be public for now.
+
 Please, cite our work using the bibtex below : 
 
 @inproceedings{stenger2023fast, <br />
