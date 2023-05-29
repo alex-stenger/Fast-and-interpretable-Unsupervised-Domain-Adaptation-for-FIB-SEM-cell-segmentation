@@ -12,3 +12,6 @@ Please, cite our work using the bibtex below :
   booktitle={International Symposium on Biomedical Imaging (ISBI), Carthagena, Colombia, avril 2023}, <br />
   year={2023} <br />
 }
+
+
+For any questions, reach us at : alstenger@unistra.fr
