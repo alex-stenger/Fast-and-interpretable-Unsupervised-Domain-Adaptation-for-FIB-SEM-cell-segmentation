@@ -2,7 +2,7 @@
 
 This is the public repository of the ISBI 2023 Conference Paper named *Fast and interpretable Unsupervised Domain Adaptation for FIB-SEM cell segmentation*
 
-You'll find a demon on how to use our code in the file ```notebook.ipynb```
+You'll find a demo on how to use our code in the file ```notebook.ipynb```
 
 Please, cite our work using the bibtex below : 
 
